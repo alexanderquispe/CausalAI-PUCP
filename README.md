@@ -17,3 +17,9 @@ This is a causal ml course at PUCP
 1. Penelope Cruz
 2. Leonardo Di Caprio
 3. Al PAcino
+
+## List of Universities
+1. PUCP
+2. UNI
+3. SAN MARCOS
+4. UP
