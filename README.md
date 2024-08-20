@@ -12,3 +12,8 @@ This is a causal ml course at PUCP
 2. Búsqueda Implacable
 3. Perros de Reserva
 4. El Castillo en Movimiento
+
+## List of Actors
+1. Penelope Cruz
+2. Leonardo Di Caprio
+3. Al PAcino
