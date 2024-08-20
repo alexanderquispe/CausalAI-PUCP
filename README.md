@@ -18,8 +18,16 @@ This is a causal ml course at PUCP
 2. Leonardo Di Caprio
 3. Al PAcino
 
+
 ## List of Schools
 1. Colegio Guadalupe
 2. Mariano Melgar
 3. Alfonso Ugarte
 4. Diego Ferré
+
+## List of Universities
+1. PUCP
+2. UNI
+3. SAN MARCOS
+4. UP
+
