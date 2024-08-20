@@ -17,3 +17,9 @@ This is a causal ml course at PUCP
 1. Penelope Cruz
 2. Leonardo Di Caprio
 3. Al PAcino
+
+## List of Schools
+1. Colegio Guadalupe
+2. Mariano Melgar
+3. Alfonso Ugarte
+4. Diego Ferré
